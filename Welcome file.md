@@ -2,7 +2,7 @@
 
 ## *1.1. Startup Profile*
 ### 1.1.1. Descripción del startup
-En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, EXPDesigners ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
+En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
 
 | Misión | Visión | Valores
 |--|--|--|
