@@ -1,31 +1,3 @@
-﻿<!-- CARATULA -->
-# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
-
-![logo_upc](images/upc_logo.png)
-
-### "Informe de Trabajo Final"
-### Ingeniería de Software - 5to Ciclo
-### A1SI0729 - Desarrollo de Aplicaciones Open Source
-### Profesor: Angel Augusto Velasquez Nuñez
-#### Sección: 4292
-#### Startup: OpenDoors
-#### Producto: StockSip
-#### Integrantes:
-
-| Nombre | Código |
-|--|--|
-| Coronel Espinoza Farid Sebastian | u202312508 |
-| Diaz Quispe Matías Sebastian | u202311938 |
-| Gonzales Castillo Angel Martin | u202319724 |
-| Huamani Cruz Camila Victoria | u202315234 |
-| Juarez Leon Nicolas Emilio Walter | u202317483 |
-
-###### Abril 2025
-
-<!-- Tabla de contenidos -->
-
-<!-- Student Outcome -->
-
 # Capítulo I: Introducción
 
 ## _1.1. Startup Profile_
@@ -34,13 +6,13 @@
 
 En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
 
-
-
 | Misión| Visión| Valores
 |--|--|--|
 | Ofrecer una solución que permita a los dueños de licorerías gestionar eficientemente su inventario y acceder a información detallada sobre el cuidado de productos de licorería, optimizando la calidad del servicio y la rentabilidad del negocio. | Ser la aplicación líder para la gestión inteligente de licorerías, permitiendo a los dueños de estos establecimientos tomar decisiones informadas, mantener un control efectivo del stock y garantizar la mejor experiencia para sus clientes. | Transparencia y confianza, Innovación constante, Responsabilidad con nuestros clientes |
 
 ### 1.1.2. Perfiles de integrantes del equipo
+
+<!-- Falta -->
 
 ## _1.2. Solution Porfile_
 
