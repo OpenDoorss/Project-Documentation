@@ -48,11 +48,18 @@ Repositorio del repositorio del **Project Report**: https://github.com/OpenDoors
 
 # Student OutCome
 
+| Criterio Específico | Acciones realizadas | Conclusiones |
+| -- | -- | -- |
+| 3.c1 Comunica de manera oral con efectividad a diferentes rangos de audiencia | | |
+| 3.c2 Comunica por escrito con efectividad rangos de audiencia
+
 <!-- Tabla de contenidos -->
 
 # Contenido
 
-1. [Capítulo I: Introducción](Chapters/Chapter-I.md)
-  - [1.1 Startup Profile](Chapters/Chapter-I.md#11-startup-profile)
-    - [1.1.2 Perfiles de Integrantes del equipo](Chapters/Chapter-I.md#112-perfiles-de-integrantes-del-equipo)
-  - [1.2 Solution Profile](Chapters/Chapter-I.md#12-solution-porfile)
+1. [Capítulo I: Introducción](docs/Chapter-I.md)
+  - [1.1 Startup Profile](docs/Chapter-I.md#11-startup-profile)
+    - [1.1.1 Descripción de la Startup](docs/Chapter-I.md#111-descripción-del-startup)
+    - [1.1.2 Perfiles de Integrantes del equipo](docs/Chapter-I.md#112-perfiles-de-integrantes-del-equipo)
+  - [1.2 Solution Profile](docs/Chapter-I.md#12-solution-porfile)
+  - [1.3 Segmentos Objetivo](docs/Chapter-I.md#13-segmentos-objetivo)
