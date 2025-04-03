@@ -12,7 +12,8 @@ En el contexto actual, donde el manejo eficiente del inventario y el conocimient
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-<!-- Falta -->
+| Foto | Integrante | Código | Carrera | Habilidades y conocimientos técnicos |
+| -- | -- | -- | -- | -- |
 
 ## _1.2. Solution Porfile_
 
