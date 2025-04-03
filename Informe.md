@@ -1,52 +1,26 @@
-﻿<link rel="stylesheet" type="text/css" href="styles/styles.css">
+﻿<!-- CARATULA -->
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-<!-- CARATULA -->
-<h1 class="no-style center"> UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS</h1>
+![logo_upc](images/upc_logo.png)
 
-<div class="center">
-	<img class="reduce-size" src="images/upc_logo.png" alt="logo_upc">
-</div>
+### "Informe de Trabajo Final"
+### Ingeniería de Software - 5to Ciclo
+### A1SI0729 - Desarrollo de Aplicaciones Open Source
+### Profesor: Angel Augusto Velasquez Nuñez
+#### Sección: 4292
+#### Startup: OpenDoors
+#### Producto: StockSip
+#### Integrantes:
 
-<h2 class="no-style center">"Informe de Trabajo Final"</h2>
-<h2 class="no-style center">Ingeniería de Software - 5to Ciclo</h2>
-<h2 class="no-style center">A1SI0729 - Desarrollo de Aplicaciones Open Source</h2>
-<h2 class="no-style center">Profesor: Angel Augusto Velasquez Nuñez</h2>
-<h3 class="no-style center">Sección: 4292</h3>
-<h3 class="no-style center">Startup: OpenDoors</h3>
-<h3 class="no-style center">Producto: StockSip</h3>
-<h3 class="no-style center">Integrantes:</h3>
+| Nombre | Código |
+|--|--|
+| Coronel Espinoza Farid Sebastian | u202312508 |
+| Diaz Quispe Matías Sebastian | u202311938 |
+| Gonzales Castillo Angel Martin | u202319724 |
+| Huamani Cruz Camila Victoria | u202315234 |
+| Juarez Leon Nicolas Emilio Walter | u202317483 |
 
-<div class="center">
-  	<table class="table-center">
-    	<tr>
-      		<th>Nombre</th>
-      		<th>Código</th>
-    	</tr>
-    	<tr>
-      		<td>Coronel Espinoza Farid Sebastian</td>
-	      	<td>u202312508</td>
-    	</tr>
-    	<tr>
-    	  	<td>Diaz Quispe Matías Sebastian</td>
-      		<td>u202311938</td>
-    	</tr>
-		<tr>
-    	  	<td>Gonzales Castillo Angel Martin</td>
-      		<td>u202319724</td>
-    	</tr>
-		<tr>
-    	  	<td>Huamani Cruz Camila Victoria</td>
-      		<td>u202315234</td>
-    	</tr>
-		<tr>
-    	  	<td>Juarez Leon Nicolas Emilio Walter</td>
-      		<td>u202317483</td>
-    	</tr>
-    </table>
-
-</div>
-
-<h5 class="no-style center">Abril 2025</h5>
+###### Abril 2025
 
 <!-- Tabla de contenidos -->
 
@@ -60,8 +34,10 @@
 
 En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
 
-| Misión                                                                                                                                                                                                                                              | Visión                                                                                                                                                                                                                                         | Valores                                                                                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+
+
+| Misión| Visión| Valores
+|--|--|--|
 | Ofrecer una solución que permita a los dueños de licorerías gestionar eficientemente su inventario y acceder a información detallada sobre el cuidado de productos de licorería, optimizando la calidad del servicio y la rentabilidad del negocio. | Ser la aplicación líder para la gestión inteligente de licorerías, permitiendo a los dueños de estos establecimientos tomar decisiones informadas, mantener un control efectivo del stock y garantizar la mejor experiencia para sus clientes. | Transparencia y confianza, Innovación constante, Responsabilidad con nuestros clientes |
 
 ### 1.1.2. Perfiles de integrantes del equipo
