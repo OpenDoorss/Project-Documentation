@@ -15,7 +15,7 @@
 | Nombre | Código |
 |--|--|
 | Coronel Espinoza Farid Sebastian | u202312508 |
-| Diaz Quispe Matías Sebastian | u202311938 |
+| Diaz Quispe Matías Sebastian | u20231193 |
 | Gonzales Castillo Angel Martin | u202319724 |
 | Huamani Cruz Camila Victoria | u202315234 |
 | Juarez Leon Nicolas Emilio Walter | u202317483 |
