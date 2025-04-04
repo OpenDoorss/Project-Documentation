@@ -21,11 +21,41 @@ La aplicación lleva por nombre **"StockSip"**. El propósito de la aplicación 
 
 Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gestionar su inventario de manera inteligente, ayudando a los dueños de licorerías a mantener un stock adecuado, reducir pérdidas por caducidad o mal almacenamiento, y ofrecer siempre productos de alta calidad a sus clientes. Además, les permitirá tomar decisiones informadas y mejorar la rentabilidad de su negocio.
 
-<p class="center">
+<p align="center">
   <img src="https://i.imgur.com/uM3AiMC.png" alt="logo_stocksip" />
 </p>
 
 > Logo de "StockSip"
+
+### 1.2.1 Antecedentes y problemática
+Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento. <br> Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
+<br>
+
+<strong>Metodologia de las 5W's y 2H's</strong>
+
+<strong>What?</strong>
+
+<strong>When?</strong>
+
+<strong>Who?</strong>
+
+<strong>Where?</strong>
+
+<strong>Why?</strong>
+
+<strong>How?</strong>
+
+<strong>How much?</strong>
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1. Lean UX Problem Statements.
+
+#### 1.2.2.2. Lean UX Assumptions.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+#### 1.2.2.4. Lean UX Canvas.
 
 ## _1.3. Segmentos objetivo_
 
