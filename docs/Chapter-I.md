@@ -36,21 +36,22 @@ Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de med
 
 #### Diagrama de Ishikawa
 
-#### Metodologia de las 5W's y 2H's
+#### <strong>Metodologia de las 5W's y 2H's</strong>
 
-**What?**
+<strong>What?</strong> <br>
+Se presente una problematica en el sector de  la gestion de inventarioque esta formado por la falta de informacion precisa acerca del las instrucciones de conservacion del producto y en el manejo en la atencion de los licores, provoando  muchas perdidas economicas por motivo de caducidad del producto
 
-**When?**
+<strong>When?</strong>
 
-**Who?**
+<strong>Who?</strong>
 
-**Where?**
+<strong>Where?</strong>
 
-**Why**
+<strong>Why</strong>
 
-**How?**
+<strong>How?</strong>
 
-**How much**
+<strong>How much</strong>
 
 ### 1.2.2 Lean UX Process
 
