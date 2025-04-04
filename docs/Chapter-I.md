@@ -6,6 +6,8 @@
 
 En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
 
+<!-- Tabla Misión - Visión - Valores -->
+
 | Misión| Visión| Valores
 |--|--|--|
 | Ofrecer una solución que permita a los dueños de licorerías gestionar eficientemente su inventario y acceder a información detallada sobre el cuidado de productos de licorería, optimizando la calidad del servicio y la rentabilidad del negocio. | Ser la aplicación líder para la gestión inteligente de licorerías, permitiendo a los dueños de estos establecimientos tomar decisiones informadas, mantener un control efectivo del stock y garantizar la mejor experiencia para sus clientes. | Transparencia y confianza, Innovación constante, Responsabilidad con nuestros clientes |
@@ -21,31 +23,34 @@ La aplicación lleva por nombre **"StockSip"**. El propósito de la aplicación 
 
 Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gestionar su inventario de manera inteligente, ayudando a los dueños de licorerías a mantener un stock adecuado, reducir pérdidas por caducidad o mal almacenamiento, y ofrecer siempre productos de alta calidad a sus clientes. Además, les permitirá tomar decisiones informadas y mejorar la rentabilidad de su negocio.
 
+<!-- URL Logo: https://i.imgur.com/uM3AiMC.png -->
 <p align="center">
-  <img src="https://i.imgur.com/uM3AiMC.png" alt="logo_stocksip" />
+  <img src="../img/Chapter I/stocksip_logo.png" alt="logo_stocksip"/>
 </p>
 
-> Logo de "StockSip"
+> <p align="center">Logo de "StockSip"</p>
 
 ### 1.2.1 Antecedentes y problemática
 Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento. <br> Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
 <br>
 
-<strong>Metodologia de las 5W's y 2H's</strong>
+#### Diagrama de Ishikawa
 
-<strong>What?</strong>
+#### Metodologia de las 5W's y 2H's
 
-<strong>When?</strong>
+**What?**
 
-<strong>Who?</strong>
+**When?**
 
-<strong>Where?</strong>
+**Who?**
 
-<strong>Why?</strong>
+**Where?**
 
-<strong>How?</strong>
+**Why**
 
-<strong>How much?</strong>
+**How?**
+
+**How much**
 
 ### 1.2.2 Lean UX Process
 
