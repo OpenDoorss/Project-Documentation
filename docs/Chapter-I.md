@@ -28,7 +28,24 @@ Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gest
 > Logo de "StockSip"
 
 ### 1.2.1 Antecedentes y problemática
+Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento. <br> Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
+<br>
 
+<strong>Metodologia de las 5W's y 2H's</strong>
+
+<strong>What?</strong>
+
+<strong>When?</strong>
+
+<strong>Who?</strong>
+
+<strong>Where?</strong>
+
+<strong>Why?</strong>
+
+<strong>How?</strong>
+
+<strong>How much?</strong>
 
 ### 1.2.2 Lean UX Process
 
