@@ -29,6 +29,7 @@ Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gest
 
 ### 1.2.1 Antecedentes y problemática
 
+
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements.
