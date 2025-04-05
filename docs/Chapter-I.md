@@ -22,6 +22,7 @@ En el contexto actual, donde el manejo eficiente del inventario y el conocimient
 La aplicación lleva por nombre **"StockSip"**. El propósito de la aplicación se centra en la gestión eficiente de licores, permitiendo a los dueños de estos negocios acceder a especificaciones detalladas sobre el cuidado, almacenamiento y manejo adecuado de sus productos de licorería. Además, "StockSip" facilita el control en tiempo real del inventario, notificando a los usuarios cuando es momento de renovar su stock y optimizar sus compras.
 
 Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gestionar su inventario de manera inteligente, ayudando a los dueños de licorerías a mantener un stock adecuado, reducir pérdidas por caducidad o mal almacenamiento, y ofrecer siempre productos de alta calidad a sus clientes. Además, les permitirá tomar decisiones informadas y mejorar la rentabilidad de su negocio.
+<br>
 
 <!-- URL Logo: https://i.imgur.com/uM3AiMC.png -->
 <p align="center">
