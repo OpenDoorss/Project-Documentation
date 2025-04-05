@@ -139,11 +139,11 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 **Creemos** que lograremos una mejora en la eficiencia de la reposición de productos y una reducción en las pérdidas económicas por vencimiento y mal almacenamiento.
 
-**Si** los proveedores de licores
+**Sabremos que** si los proveedores de licores
 
 **Obtienen** visibilidad en tiempo real sobre el inventario y la demanda de sus clientes
 
-**Con** una solución digital que permita el seguimiento del inventario, reposición automática y alerta sobre productos próximos a vencer.
+**Cuando veamos** con una solución digital que permita el seguimiento del inventario, reposición automática y alerta sobre productos próximos a vencer.
 
 - **Hyphotesis Statement 2**
 
