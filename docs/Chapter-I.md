@@ -14,12 +14,12 @@ En el contexto actual, donde el manejo eficiente del inventario y el conocimient
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-| Foto | Integrante | Código | Carrera | Habilidades y conocimientos técnicos |
-| -- | Angel Martin Gonzales Castillo | U202319724 | Ingeniera de SoftWare | -- |
-| -- | Coronel Espinoza Farid Sebastian | U202312508 | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
+| Foto | Integrante | Código | Carrera | Habilidades y conocimientos técnicos 
+| -- | Angel Martin Gonzales Castillo | U202319724 | Ingeniera de SoftWare | -- 
+| -- | Coronel Espinoza Farid Sebastian | U202312508 | Ingeniera de SoftWare | -- 
+| -- | -- | -- | Ingeniera de SoftWare | -- 
+| -- | -- | -- | Ingeniera de SoftWare | -- 
+| -- | -- | -- | Ingeniera de SoftWare | -- 
 
 ## _1.2. Solution Profile_
 
