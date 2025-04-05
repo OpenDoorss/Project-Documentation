@@ -101,10 +101,10 @@ El impacto de una mala gestión de inventario en licorerías puede ser significa
 **Diagrama de Ishikawa**
 
 <p align="center">
-  <img src="../img/Chapter I/stocksip_logo.png" alt="logo_stocksip"/>
+  <img src="../img/Chapter I/ishikawa.png" alt="diagrama_ishikawa"/>
 </p>
 
-> <p align="center">Logo de "StockSip"</p>
+> <p align="center">Diagrama de Ishikawa</p>
 
 
 ### 1.2.2. Lean UX Process
