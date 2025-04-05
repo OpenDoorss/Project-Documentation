@@ -18,9 +18,9 @@ En el contexto actual, donde el manejo eficiente del inventario y el conocimient
 | -- | -- | -- | -- | -- |
 | -- | Angel Martin Gonzales Castillo | U202319724 | Ingeniera de SoftWare | -- |
 | -- | Coronel Espinoza Farid Sebastian | U202312508 | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
-| -- | -- | -- | Ingeniera de SoftWare | -- |
+| -- | Diaz Quispe Matías Sebastian | U202311938 | Ingeniera de SoftWare | -- |
+| -- | Huamani Cruz Camila Victoria | U202315234 | Ingeniera de SoftWare | -- |
+| -- | Juarez Leon Nicolas Emilio Walter | U202317483 | Ingeniera de SoftWare | -- |
 
 ## _1.2. Solution Profile_
 
