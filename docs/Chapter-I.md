@@ -31,37 +31,135 @@ Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gest
 > <p align="center">Logo de "StockSip"</p>
 
 ### 1.2.1 Antecedentes y problemática
+
+**Antecedentes:**
+
 Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento. <br> Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
 <br>
 
-#### Diagrama de Ishikawa
+Además, muchos comerciantes no tienen acceso a información técnica sobre el cuidado y conservación de las bebidas, lo que compromete la calidad del producto y la experiencia del consumidor. En un mercado competitivo, se vuelve esencial contar con herramientas que permitan tomar decisiones rápidas y bien fundamentadas.
 
-#### <strong>Metodologia de las 5W's y 2H's</strong>
+Frente a esta problemática, surge "StockSip", una solución tecnológica diseñada para cubrir estas necesidades mediante una plataforma intuitiva, que no solo permite gestionar el inventario en tiempo real, sino también acceder a información clave sobre cada producto, facilitando así una mejor toma de decisiones y una operación más eficiente.
 
-<strong>What?</strong> <br>
-Se presente una problematica en el sector de  la gestion de inventarioque esta formado por la falta de informacion precisa acerca del las instrucciones de conservacion del producto y en el manejo en la atencion de los licores, provoando  muchas perdidas economicas por motivo de caducidad del producto
+**Técina de las 5W's y 2H's:**
 
-<strong>When?</strong>
+ - **What?**
 
-<strong>Who?</strong>
+**¿Cuál es el problema?**  
+Se presente una problematica en el sector de  la gestion de inventario que esta formado por la falta de informacion precisa acerca del las instrucciones de conservacion del producto y en el manejo en la atencion de los licores, provoando  muchas perdidas economicas por motivo de caducidad del producto
 
-<strong>Where?</strong>
+**¿Cuál es la relación con la persona en cuestión?**  
+Los dueños y encargados de licorerías son quienes enfrentan directamente esta problemática, ya que son responsables de mantener un inventario adecuado, asegurar la calidad de los productos ofrecidos y garantizar una operación eficiente del negocio.
 
-<strong>Why</strong>
+ - **When?**
 
-<strong>How?</strong>
+**¿Cuándo sucede el problema?**  
+Este problema se presenta de forma continua a lo largo del tiempo, ya que la gestión de inventarios es una tarea diaria. Puede agravarse en momentos de alta demanda o durante temporadas en las que el flujo de productos es mayor.
 
-<strong>How much</strong>
+**¿Cuándo utiliza el cliente el producto?**  
+Los usuarios utilizan StockSip regularmente como parte de su rutina operativa diaria, para consultar el estado de su inventario, recibir alertas de stock bajo y revisar especificaciones técnicas de los productos que venden.
 
-### 1.2.2 Lean UX Process
+ - **Where?**
 
-#### 1.2.2.1. Lean UX Problem Statements.
+**¿Dónde está el cliente cuando usa el producto?**  
+Los clientes acceden a la aplicación desde sus propios establecimientos, como licorerías, almacenes o incluso desde casa para hacer seguimiento remoto a su inventario.
 
-#### 1.2.2.2. Lean UX Assumptions.
+**¿A dónde se dirige?**  
+La problemática afecta principalmente a licorerías pequeñas y medianas que buscan operar con mayor eficiencia, pero no cuentan con soluciones tecnológicas adecuadas para la gestión de sus productos.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+**¿Dónde surge el problema?**  
+El problema nace en los negocios de licorería que no tienen acceso a sistemas digitales de control de stock ni a canales claros de comunicación con los proveedores sobre el cuidado adecuado de los productos.
 
-#### 1.2.2.4. Lean UX Canvas.
+ - **Who?**
+
+**¿Quiénes están involucrados?**  
+Los principales involucrados son los dueños de licorerías, los encargados de inventario, y los proveedores de productos de licorería que desean que sus productos se conserven adecuadamente en los puntos de venta.
+
+ - **Why?**
+
+**¿Cuál es la causa del problema?**  
+La falta de digitalización en estos negocios, el desconocimiento sobre herramientas disponibles, la poca comunicación técnica entre proveedores y minoristas, y la ausencia de alertas automatizadas para el control de stock son factores que originan y agravan el problema.
+
+ - **How?**
+
+**¿En qué condiciones los clientes usan nuestros productos?**  
+Los clientes utilizan StockSip en medio de sus operaciones diarias, muchas veces en contextos de alta carga de trabajo y con recursos limitados.
+
+**¿Cómo prefieren los clientes acceder a nuestro producto?**  
+Prefieren una aplicación web que sea de fácil acceso, con una interfaz clara y un panel que permita visualizar el estado del inventario en tiempo real.
+
+**¿Qué llevó al cliente a llegar a esta situación?**  
+La falta de control sobre su stock, las pérdidas por vencimientos, las compras innecesarias o tardías y la falta de información sobre cómo conservar correctamente ciertos productos llevaron a los dueños de licorerías a buscar una solución digital que optimice sus operaciones.
+
+ - **How much?**
+
+**¿Cuánto impacto genera este problema en los negocios de licorería?**  
+El impacto de una mala gestión de inventario en licorerías puede ser significativo. Según un artículo de QuadMinds, una gestión deficiente puede generar ventas no registradas y pérdidas económicas considerables.  A nivel local, operativos realizados por municipalidades peruanas han encontrado productos vencidos en licorerías, lo cual refleja fallas en el control de inventario y ocasiona pérdidas económicas, además de poner en riesgo la salud del consumidor y la reputación del negocio.
+
+Diagrama de Ishikawa
+
+
+### 1.2.2. Lean UX Process
+
+El Lean UX es un enfoque que permite validar las soluciones propuestas para problemas identificados. Este enfoque se centra en las personas que utilizarán nuestro producto. Una vez identificada la problemática a resolver, se empleó este proceso para reconocer áreas clave que contribuirán a dar forma al producto propuesto.
+
+#### 1.2.2.1. Lean UX Problem Statements
+
+- **Problem Statement 1**
+
+Muchos proveedores de licores no cuentan con herramientas digitales que les permitan monitorear en tiempo real la demanda y el inventario de sus clientes. Esto genera problemas como desabastecimiento, sobrestock, y falta de visibilidad sobre los productos que están siendo mal almacenados o que están próximos a vencer, afectando directamente tanto sus ventas como las de sus clientes.
+
+¿Cómo podríamos diseñar una solución digital que permita a los proveedores de licores tener visibilidad en tiempo real de los inventarios y la demanda de sus clientes, mejorando la eficiencia de la reposición y reduciendo las pérdidas económicas por vencimiento y mal almacenamiento?
+
+- **Problem Statement 2**
+
+En la actualidad, muchos dueños de licorerías no tienen acceso práctico a información útil sobre cómo almacenar y cuidar correctamente sus productos. Por eso, muchas veces toman decisiones basadas en costumbre o intuición, lo que puede afectar la calidad del licor que venden y generar pérdidas por un mal manejo de los productos.
+
+¿Cómo podríamos diseñar la experiencia de acceso a la información técnica dentro de "StockSip" para que los dueños de licorerías tomen decisiones más informadas y aseguren la calidad de sus productos?
+
+- **Problem Statement 3**
+
+Actualmente, los dueños de licorerías carecen de herramientas que les permitan visualizar con anticipación qué productos están por vencer o cuáles presentan baja rotación. Esto impide acciones preventivas como promociones estratégicas o ajustes en los pedidos.
+
+¿Cómo podríamos diseñar "StockSip" para ofrecer alertas inteligentes y visualizaciones claras que ayuden a los dueños de licorerías a anticipar pérdidas y tomar decisiones correctivas, logrando una reducción del 35% en productos vencidos y un aumento del 25% en ventas de productos próximos a vencer?
+
+#### 1.2.2.1. Lean UX Assumptions
+
+#### 1.2.2.1. Lean UX Hyphotesis Statements
+
+- **Hyphotesis Statement 1**
+
+**Creemos** que lograremos una mejora en la eficiencia de la reposición de productos y una reducción en las pérdidas económicas por vencimiento y mal almacenamiento.
+
+**Si** los proveedores de licores
+
+**Obtienen** visibilidad en tiempo real sobre el inventario y la demanda de sus clientes
+
+**Con** una solución digital que permita el seguimiento del inventario, reposición automática y alerta sobre productos próximos a vencer.
+
+- **Hyphotesis Statement 2**
+
+**Creemos** que lograremos un aumento en la toma de decisiones informadas y la garantía de la calidad de los productos.
+
+**Si** los dueños de licorerías
+
+**Obtienen** mejor acceso a información técnica sobre almacenamiento y cuidado de los productos
+
+**Con** una funcionalidad que ofrezca orientación clara y fácilmente accesible sobre el almacenamiento y manejo adecuado de los productos.
+
+- **Hyphotesis Statement 3**
+
+**Creemos** que lograremos una reducción de productos vencidos y un aumento en las ventas de productos próximos a vencer.
+
+**Si** los dueños de licorerías
+
+**Obtienen** la capacidad de gestionar proactivamente la expiración de productos y los ciclos de ventas
+
+**Con** alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
+
+
+#### 1.2.2.1. Lean UX Canvas
+
 
 ## _1.3. Segmentos objetivo_
 
