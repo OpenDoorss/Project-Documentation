@@ -4,7 +4,7 @@
 
 ### 1.1.1. Descripción del startup
 
-En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La empresa proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
+En el contexto actual, donde el manejo eficiente del inventario y el conocimiento profundo de los productos son clave para el éxito comercial, OpenDoors ofrece una solución para dueños de licorerías que buscan optimizar la gestión de sus negocios. Somos una startup comprometida con desarrollar una aplicación que permite a los proveedores listar especificaciones detalladas sobre el cuidado y almacenamiento de productos de licorería, brindando a los dueños de licorerías la información necesaria para preservar la calidad y el valor de sus productos. La startup proporciona a los usuarios una herramienta para gestionar su inventario de manera eficiente, con control completo del stock y alertas que indican el momento óptimo para renovar la mercadería.
 
 <!-- Tabla Misión - Visión - Valores -->
 
@@ -17,32 +17,29 @@ En el contexto actual, donde el manejo eficiente del inventario y el conocimient
 | Foto | Integrante | Código | Carrera | Habilidades y conocimientos técnicos |
 | -- | -- | -- | -- | -- |
 
-## _1.2. Solution Porfile_
+## _1.2. Solution Profile_
 
-La aplicación lleva por nombre **"StockSip"**. El propósito de la aplicación se centra en la gestión eficiente de licores, permitiendo a los dueños de estos negocios acceder a especificaciones detalladas sobre el cuidado, almacenamiento y manejo adecuado de sus productos de licorería. Además, "StockSip" facilita el control en tiempo real del inventario, notificando a los usuarios cuando es momento de renovar su stock y optimizar sus compras.
+La aplicación lleva por nombre **"StockSip"**. El propósito de la aplicación se centra en la gestión eficiente de licores, permitiendo a los dueños de estos negocios acceder a especificaciones detalladas sobre el cuidado, almacenamiento y manejo adecuado de sus productos de licorería. Además, facilita el control en tiempo real del inventario, notificando a los usuarios cuando es momento de renovar su stock y optimizar sus compras.
 
 Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gestionar su inventario de manera inteligente, ayudando a los dueños de licorerías a mantener un stock adecuado, reducir pérdidas por caducidad o mal almacenamiento, y ofrecer siempre productos de alta calidad a sus clientes. Además, les permitirá tomar decisiones informadas y mejorar la rentabilidad de su negocio.
-<br>
 
-<!-- URL Logo: https://i.imgur.com/uM3AiMC.png -->
+<!-- Logo StockSip-->
 <p align="center">
   <img src="../img/Chapter I/stocksip_logo.png" alt="logo_stocksip"/>
+
+  > <p align="center">Logo de "StockSip"</p>
 </p>
 
-> <p align="center">Logo de "StockSip"</p>
-
-<br>
 ### 1.2.1. Antecedentes y problemática
 
 **Antecedentes:**
 
-Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento. <br> Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
-<br>
+Hoy en dia, la gestión de inventario de licores ha sido controlado a cabo por medios que en varios casos ya son obsoletos o procesos manuales, los cuales son dificiles observar la cantidad de stock disponibles y la fecha de vencimiento.
+Con esto en mente la creciente competencia de mercado y a nivel tecnologico, la tendencia de digitalización y optimización de los procesos ha ocupado su lugar.
 
-Además, muchos comerciantes no tienen acceso a información técnica sobre el cuidado y conservación de las bebidas, lo que compromete la calidad del producto y la experiencia del consumidor. En un mercado competitivo, se vuelve esencial contar con herramientas que permitan tomar decisiones rápidas y bien fundamentadas.
+Además, muchos comerciantes no tienen acceso a información técnica sobre el cuidado y conservación de los licores, lo que compromete la calidad del producto y la experiencia del consumidor. En un mercado competitivo, se vuelve esencial contar con herramientas que permitan tomar decisiones rápidas y bien fundamentadas.
 
 Frente a esta problemática, surge "StockSip", una solución tecnológica diseñada para cubrir estas necesidades mediante una plataforma intuitiva, que no solo permite gestionar el inventario en tiempo real, sino también acceder a información clave sobre cada producto, facilitando así una mejor toma de decisiones y una operación más eficiente.
-<br>
 
 **Técina de las 5W's y 2H's:**
 
@@ -98,16 +95,14 @@ La falta de control sobre su stock, las pérdidas por vencimientos, las compras 
 
 **¿Cuánto impacto genera este problema en los negocios de licorería?**  
 El impacto de una mala gestión de inventario en licorerías puede ser significativo. Según un artículo de QuadMinds, una gestión deficiente puede generar ventas no registradas y pérdidas económicas considerables.  A nivel local, operativos realizados por municipalidades peruanas han encontrado productos vencidos en licorerías, lo cual refleja fallas en el control de inventario y ocasiona pérdidas económicas, además de poner en riesgo la salud del consumidor y la reputación del negocio.
-<br>
 
 **Diagrama de Ishikawa**
 
 <p align="center">
   <img src="../img/Chapter I/ishikawa.png" alt="diagrama_ishikawa"/>
+
+  > <p align="center">Diagrama de Ishikawa</p>
 </p>
-
-> <p align="center">Diagrama de Ishikawa</p>
-
 
 <!-- Lean UX Process-->
 ### 1.2.2. Lean UX Process
@@ -179,9 +174,9 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 **Creemos que** lograremos un aumento en la toma de decisiones informadas y la garantía de la calidad de los productos.
 
-**Si** los dueños de licorerías
+**Sabremos que** los dueños de licorerías
 
-**Obtienen** mejor acceso a información técnica sobre almacenamiento y cuidado de los productos
+**Cuando veamos** mejor acceso a información técnica sobre almacenamiento y cuidado de los productos
 
 **Con** una funcionalidad que ofrezca orientación clara y fácilmente accesible sobre el almacenamiento y manejo adecuado de los productos.
 
@@ -198,9 +193,11 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 <!-- Lean UX Canvas -->
 #### 1.2.2.4. Lean UX Canvas
 
-#### 1.2.2.1. Lean UX Canvas
+<p align="center">
+  <img src="../img/Chapter I/lean_ux_canvas.jpg" alt="lean_ux_canvas"/>
 
-> <p align="center">Lean Ux Canvas</p>
+  > <p align="center">Lean Ux Canvas</p>
+</p>
 
 ## _1.3. Segmentos objetivo_
 
