@@ -135,31 +135,19 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 ¿Cómo podríamos diseñar "StockSip" para ofrecer alertas inteligentes y visualizaciones claras que ayuden a los dueños de licorerías a anticipar pérdidas y tomar decisiones correctivas, logrando una reducción del 35% en productos vencidos y un aumento del 25% en ventas de productos próximos a vencer?
 
-<!-- Lean UX Assumptions -->
-#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.1. Lean UX Assumptions
 
-- **Assumptions Worksheet:**
-  - 
-   
-
-- **Business Outcomes:**
-
-- **User Outcomes:**
-
-- **Features :**
-
-<!-- Lean UX Hypothesis Statements -->
-#### 1.2.2.3. Lean UX Hyphotesis Statements
+#### 1.2.2.1. Lean UX Hyphotesis Statements
 
 - **Hyphotesis Statement 1**
 
 **Creemos que** lograremos una mejora en la eficiencia de la reposición de productos y una reducción en las pérdidas económicas por vencimiento y mal almacenamiento.
 
-**Si** los proveedores de licores
+**Sabremos que** si los proveedores de licores
 
 **Obtienen** visibilidad en tiempo real sobre el inventario y la demanda de sus clientes
 
-**Con** una solución digital que permita el seguimiento del inventario, reposición automática y alerta sobre productos próximos a vencer.
+**Cuando veamos** con una solución digital que permita el seguimiento del inventario, reposición automática y alerta sobre productos próximos a vencer.
 
 - **Hyphotesis Statement 2**
 
@@ -173,20 +161,18 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 - **Hyphotesis Statement 3**
 
-**Creemos** que lograremos una reducción de productos vencidos y un aumento en las ventas de productos próximos a vencer.
+**Creemos que** lograremos una reducción de productos vencidos y un aumento en las ventas de productos próximos a vencer.
 
-**Si** los dueños de licorerías
+**Sabremos que** si los dueños de licorerías
 
 **Obtienen** la capacidad de gestionar proactivamente la expiración de productos y los ciclos de ventas
 
-**Con** alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
+**Cuando veamos** con alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
 
 <!-- Lean UX Canvas -->
 #### 1.2.2.4. Lean UX Canvas
 
-<p align="center">
-  <img src="../img/Chapter I/lean_ux_canvas.jpg" alt="diagrama_ishikawa"/>
-</p>
+#### 1.2.2.1. Lean UX Canvas
 
 > <p align="center">Lean Ux Canvas</p>
 
