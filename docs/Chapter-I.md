@@ -131,9 +131,9 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 ¿Cómo podríamos diseñar "StockSip" para ofrecer alertas inteligentes y visualizaciones claras que ayuden a los dueños de licorerías a anticipar pérdidas y tomar decisiones correctivas, logrando una reducción del 35% en productos vencidos y un aumento del 25% en ventas de productos próximos a vencer?
 
-#### 1.2.2.1. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
-#### 1.2.2.1. Lean UX Hyphotesis Statements
+#### 1.2.2.3. Lean UX Hyphotesis Statements
 
 - **Hyphotesis Statement 1**
 
@@ -166,7 +166,7 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 **Cuando veamos** con alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
 
 
-#### 1.2.2.1. Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
 
 
 
