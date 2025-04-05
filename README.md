@@ -62,7 +62,7 @@ Repositorio del repositorio del **Project Report**: https://github.com/OpenDoors
     - [1.1.1 Descripción de la Startup](docs/Chapter-I.md#111-descripción-del-startup)
     - [1.1.2 Perfiles de Integrantes del equipo](docs/Chapter-I.md#112-perfiles-de-integrantes-del-equipo)
   - [1.2 Solution Profile](docs/Chapter-I.md#12-solution-porfile)
-    - [1.2.1  Antecedentes y problemática](docs/Chapter-I.md#121-antecedentes-y-problemática)
+    - [1.2.1 Antecedentes y problemática](docs/Chapter-I.md#121-antecedentes-y-problemática)
     - [1.2.2 Lean UX Process](docs/Chapter-I.md#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](docs/Chapter-I.md#1221-lean-ux-problem-statements)
       - [1.2.2.2 Lean UX Assumptions](docs/Chapter-I.md#1222-lean-ux-assumptions)

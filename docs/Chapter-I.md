@@ -49,7 +49,7 @@ Frente a esta problemática, surge "StockSip", una solución tecnológica diseñ
  - **What?**
 
 **¿Cuál es el problema?**  
-Se presente una problematica en el sector de  la gestion de inventario que esta formado por la falta de informacion precisa acerca del las instrucciones de conservacion del producto y en el manejo en la atencion de los licores, provoando  muchas perdidas economicas por motivo de caducidad del producto
+Se presenta una problemática en la gestión de inventario que esta formado por la falta de informacion precisa acerca del las instrucciones de conservacion del producto y en el manejo en la atención de los licores, provocando muchas perdidas económicas por motivo de caducidad del producto.
 
 **¿Cuál es la relación con la persona en cuestión?**  
 Los dueños y encargados de licorerías son quienes enfrentan directamente esta problemática, ya que son responsables de mantener un inventario adecuado, asegurar la calidad de los productos ofrecidos y garantizar una operación eficiente del negocio.
@@ -109,10 +109,12 @@ El impacto de una mala gestión de inventario en licorerías puede ser significa
 > <p align="center">Diagrama de Ishikawa</p>
 
 
+<!-- Lean UX Process-->
 ### 1.2.2. Lean UX Process
 
 El Lean UX es un enfoque que permite validar las soluciones propuestas para problemas identificados. Este enfoque se centra en las personas que utilizarán nuestro producto. Una vez identificada la problemática a resolver, se empleó este proceso para reconocer áreas clave que contribuirán a dar forma al producto propuesto.
 
+<!-- Lean UX Problem Statements -->
 #### 1.2.2.1. Lean UX Problem Statements
 
 - **Problem Statement 1**
@@ -133,13 +135,25 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 ¿Cómo podríamos diseñar "StockSip" para ofrecer alertas inteligentes y visualizaciones claras que ayuden a los dueños de licorerías a anticipar pérdidas y tomar decisiones correctivas, logrando una reducción del 35% en productos vencidos y un aumento del 25% en ventas de productos próximos a vencer?
 
-#### 1.2.2.1. Lean UX Assumptions
+<!-- Lean UX Assumptions -->
+#### 1.2.2.2. Lean UX Assumptions
 
-#### 1.2.2.1. Lean UX Hyphotesis Statements
+- **Assumptions Worksheet:**
+  - 
+   
+
+- **Business Outcomes:**
+
+- **User Outcomes:**
+
+- **Features :**
+
+<!-- Lean UX Hypothesis Statements -->
+#### 1.2.2.3. Lean UX Hyphotesis Statements
 
 - **Hyphotesis Statement 1**
 
-**Creemos** que lograremos una mejora en la eficiencia de la reposición de productos y una reducción en las pérdidas económicas por vencimiento y mal almacenamiento.
+**Creemos que** lograremos una mejora en la eficiencia de la reposición de productos y una reducción en las pérdidas económicas por vencimiento y mal almacenamiento.
 
 **Si** los proveedores de licores
 
@@ -167,10 +181,14 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 **Con** alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
 
+<!-- Lean UX Canvas -->
+#### 1.2.2.4. Lean UX Canvas
 
-#### 1.2.2.1. Lean UX Canvas
+<p align="center">
+  <img src="../img/Chapter I/lean_ux_canvas.jpg" alt="diagrama_ishikawa"/>
+</p>
 
-
+> <p align="center">Lean Ux Canvas</p>
 
 ## _1.3. Segmentos objetivo_
 
