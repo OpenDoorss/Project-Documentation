@@ -157,13 +157,13 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 - **Hyphotesis Statement 3**
 
-**Creemos** que lograremos una reducción de productos vencidos y un aumento en las ventas de productos próximos a vencer.
+**Creemos que** lograremos una reducción de productos vencidos y un aumento en las ventas de productos próximos a vencer.
 
-**Si** los dueños de licorerías
+**Sabremos que** si los dueños de licorerías
 
 **Obtienen** la capacidad de gestionar proactivamente la expiración de productos y los ciclos de ventas
 
-**Con** alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
+**Cuando veamos** con alertas inteligentes y visualizaciones claras que indiquen productos próximos a vencer y aquellos con baja rotación.
 
 
 #### 1.2.2.1. Lean UX Canvas
