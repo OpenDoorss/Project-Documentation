@@ -30,6 +30,7 @@ Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gest
 
 > <p align="center">Logo de "StockSip"</p>
 
+
 ### 1.2.1 Antecedentes y problemática
 
 **Antecedentes:**
@@ -40,6 +41,7 @@ Hoy en dia, la gestion de inventario de licores ha sido controlado a cabo de med
 Además, muchos comerciantes no tienen acceso a información técnica sobre el cuidado y conservación de las bebidas, lo que compromete la calidad del producto y la experiencia del consumidor. En un mercado competitivo, se vuelve esencial contar con herramientas que permitan tomar decisiones rápidas y bien fundamentadas.
 
 Frente a esta problemática, surge "StockSip", una solución tecnológica diseñada para cubrir estas necesidades mediante una plataforma intuitiva, que no solo permite gestionar el inventario en tiempo real, sino también acceder a información clave sobre cada producto, facilitando así una mejor toma de decisiones y una operación más eficiente.
+
 
 **Técina de las 5W's y 2H's:**
 
@@ -96,7 +98,13 @@ La falta de control sobre su stock, las pérdidas por vencimientos, las compras 
 **¿Cuánto impacto genera este problema en los negocios de licorería?**  
 El impacto de una mala gestión de inventario en licorerías puede ser significativo. Según un artículo de QuadMinds, una gestión deficiente puede generar ventas no registradas y pérdidas económicas considerables.  A nivel local, operativos realizados por municipalidades peruanas han encontrado productos vencidos en licorerías, lo cual refleja fallas en el control de inventario y ocasiona pérdidas económicas, además de poner en riesgo la salud del consumidor y la reputación del negocio.
 
-Diagrama de Ishikawa
+**Diagrama de Ishikawa**
+
+<p align="center">
+  <img src="../img/Chapter I/stocksip_logo.png" alt="logo_stocksip"/>
+</p>
+
+> <p align="center">Logo de "StockSip"</p>
 
 
 ### 1.2.2. Lean UX Process
@@ -159,6 +167,7 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 
 #### 1.2.2.1. Lean UX Canvas
+
 
 
 ## _1.3. Segmentos objetivo_
