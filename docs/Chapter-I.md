@@ -32,7 +32,7 @@ Finalmente, "StockSip" promete a sus usuarios ser la herramienta clave para gest
 > <p align="center">Logo de "StockSip"</p>
 
 <br>
-### 1.2.1 Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 
 **Antecedentes:**
 
@@ -135,9 +135,35 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 ¿Cómo podríamos diseñar "StockSip" para ofrecer alertas inteligentes y visualizaciones claras que ayuden a los dueños de licorerías a anticipar pérdidas y tomar decisiones correctivas, logrando una reducción del 35% en productos vencidos y un aumento del 25% en ventas de productos próximos a vencer?
 
-#### 1.2.2.1. Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 
-#### 1.2.2.1. Lean UX Hyphotesis Statements
+##### 1.2.2.2.1 Business Assumptions
+
+- Existe un mercado no atendido de licorerías pequeñas y medianas que requieren soluciones tecnológicas para el control de inventario.
+
+- Las pérdidas económicas en las licorerías están vinculadas al mal manejo de inventario, lo que genera una necesidad urgente.
+
+- Los proveedores de productos alcohólicos están interesados en que sus productos sean bien almacenados y podrían ver valor en una solución como StockSip.
+
+##### 1.2.2.2.2 Business Outcomes
+
+- Generar oportunidades de monetización, ya sea por suscripción mensual o alianzas con proveedores.
+
+- Mejorar la percepción de marca de OpenDoors como una startup que ofrece soluciones efectivas para microempresas.
+
+##### 1.2.2.2.3 User Assumptions
+
+- Los dueños de licorerías no utilizan actualmente herramientas especializadas, sino métodos manuales (libretas, hojas de cálculo).
+
+- Tienen interés en mantener sus productos en condiciones óptimas, pero no siempre saben cómo hacerlo.
+
+##### 1.2.2.2.4 User Outcomes
+
+- Los usuarios reportan una mayor organización de su inventario y menos errores de reposición.
+
+- Los dueños disminuyen las pérdidas por productos vencidos o mal almacenados.
+  
+#### 1.2.2.3. Lean UX Hyphotesis Statements
 
 - **Hyphotesis Statement 1**
 
@@ -151,7 +177,7 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 
 - **Hyphotesis Statement 2**
 
-**Creemos** que lograremos un aumento en la toma de decisiones informadas y la garantía de la calidad de los productos.
+**Creemos que** lograremos un aumento en la toma de decisiones informadas y la garantía de la calidad de los productos.
 
 **Si** los dueños de licorerías
 
@@ -172,9 +198,7 @@ Actualmente, los dueños de licorerías carecen de herramientas que les permitan
 <!-- Lean UX Canvas -->
 #### 1.2.2.4. Lean UX Canvas
 
-<p align="center">
-  <img src="../img/Chapter I/lean_ux_canvas.jpg" alt="lean-ux-canvas"/>
-</p>
+#### 1.2.2.1. Lean UX Canvas
 
 > <p align="center">Lean Ux Canvas</p>
 
