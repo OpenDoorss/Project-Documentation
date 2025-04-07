@@ -69,3 +69,5 @@ Repositorio del repositorio del **Project Report**: https://github.com/OpenDoors
       - [1.2.2.3 Lean UX Hypothesis Statements](docs/Chapter-I.md#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4 Lean UX Canvas](docs/Chapter-I.md#1224-lean-ux-canvas)
   - [1.3 Segmentos Objetivo](docs/Chapter-I.md#13-segmentos-objetivo)
+
+2. [Capítulo II: Requirements Elicitation & Analysis](docs/Chapter-II.md)
