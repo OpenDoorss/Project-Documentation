@@ -1,0 +1,50 @@
+﻿# Capítulo II: Requirements Elicitation & Analysis
+
+## *2.1. Competidores*
+
+### 2.1.1. Análisis Competitivo
+
+### 2.1.2. Estrategias y tácticas frente a competidores
+
+## *2.2. Entrevistas*
+
+Para poder validar mejor la propuesta solución planteada, se diseñarán preguntas claves respecto a la propuesta para que diferentes personas con características similares a las de los segmentos objetivos puedan responderlas. De esta manera, se tendrá una mejor validación y se podrá obtener mejores respuestas en cuanto a lo que los usuarios necesitan para solucionar su problema. Luego, se registrarán las respuestas dadas por los entrevistados y se realizará un análisis profundo de cada respuesta para obtener las necesidades de los usuarios.
+
+### 2.2.1. Diseño de entrevistas
+
+**Preguntas demográficas:**
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿En qué distrito resides?
+
+**Preguntas principales:**
+ - ¿Me podrías contar un poco sobre ti y tu negocio?
+ - ¿Cómo sueles llevar el control de tu inventario actualmente?
+ - ¿Qué problemas has tenido con productos que se vencen, se dañan o no se venden?
+ - ¿Qué tan fácil o difícil te resulta saber cuándo y qué productos necesitas reponer?
+ - ¿Qué sabes sobre el almacenamiento correcto de los licores que vendes?
+
+**Preguntas sobre la solución:**
+ - ¿Actualmente utilizas herramientas digitales en tu negocio? 
+ - ¿Qué harías si tuvieras una herramienta que te avise cuándo reponer productos y cómo almacenarlos bien?
+ - ¿Qué funcionalidades crees que debería tener una herramienta que te ayude a gestionar el stock de tus productos? 
+ - ¿Cómo te imaginas el futuro de tu negocio si logras
+   reducir pérdidas y tener un mejor control del stock?
+
+### 2.2.2. Registro de entrevistas
+
+### 2.2.3. Análisis de entrevistas
+
+## *2.3. Needfinding*
+
+### 2.3.1. Users Personas
+
+### 2.3.2. User Task Matrix
+
+### 2.3.3. User Journey Mapping
+
+### 2.3.4. Empathy Mapping
+
+### 2.3.5. As-Is Escenario Mapping
+
+## *2.4. Ubiquitous Language*
