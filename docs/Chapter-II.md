@@ -74,44 +74,44 @@ Para poder validar mejor la propuesta solución planteada, se diseñarán pregun
 
 Para garantizar una comunicación clara, coherente y sin ambigüedades entre todos los involucrados en el desarrollo y uso de **StockSip**. Este conjunto de términos representa los conceptos clave del dominio del sistema y será utilizado de forma consistente en la interfaz de usuario y documentación técnica.
 
-**Inventario Inteligente**  
+- **Inventario Inteligente**  
 Sistema central de la aplicación que permite registrar, monitorear y actualizar el stock de productos en tiempo real. Incluye datos sobre cantidades disponibles, fechas de vencimiento y estado de conservación.
 
-**Producto de Licorería**  
+- **Producto de Licorería**  
 Cualquier bebida alcohólica registrada dentro del sistema. Cada producto incluye información como tipo, marca, presentación, fecha de vencimiento, condiciones ideales de almacenamiento, y rotación sugerida.
 
-**Alerta de Reposición**  
+- **Alerta de Reposición**  
 Notificación automática que avisa al usuario cuando un producto está por agotarse o cerca de su fecha de vencimiento, facilitando la planificación de compras.
 
-**Ficha Técnica del Producto**  
+- **Ficha Técnica del Producto**  
 Documento digital que describe las características y cuidados de cada bebida: temperatura de conservación, sensibilidad a la luz, durabilidad, y observaciones del proveedor.
 
-**Historial de Movimiento**  
+- **Historial de Movimiento**  
 Registro de entradas y salidas de productos del inventario, que permite rastrear decisiones pasadas y evaluar patrones de consumo.
 
-**Panel de Control**  
+- **Panel de Control**  
 Interfaz principal del usuario donde se resumen el estado del inventario, las alertas activas, productos críticos y recomendaciones de acción.
 
-**Administración de Inventario**  
+- **Administración de Inventario**  
 Sección donde el usuario define zonas de almacenamiento y parámetros personalizados según el tipo de licor, facilitando una conservación adecuada.
 
-**Optimización de Compras**  
+- **Optimización de Compras**  
 Módulo que sugiere cuándo y qué productos adquirir basándose en el historial de consumo, disponibilidad actual, y fechas de vencimiento próximas.
 
-**Salud del Inventario**  
+- **Salud del Inventario**  
 Visualizaciones que muestran el estado general del stock: porcentaje de productos próximos a vencer, nivel de abastecimiento, y eficiencia de rotación.
 
-**Alertas de Expiración**  
+- **Alertas de Expiración**  
 Funcionalidad que identifica productos con fecha de vencimiento próxima y envía alertas al usuario.
 
-**Recomendación Inteligente**  
+- **Recomendación Inteligente**  
 Sistema de sugerencias basado reglas de negocio que ayuda al usuario a mejorar la conservación, disposición y compra de productos según su perfil de negocio.
 
-**Suscripción Premium**  
+- **Suscripción Premium**  
 Modelo de pago que otorga acceso a funciones avanzadas de la aplicación, como reportes personalizados, soporte prioritario e integración con proveedores. Ideal para licorerías que buscan escalar su operación.
 
-**Guia de Conservación**  
+- **Guia de Conservación**  
 Registro digital donde se documentan prácticas de cuidado aplicadas a los productos (temperatura, iluminación, limpieza del área, entre otros). Permite asegurar el cumplimiento de estándares relacionados con calidad.
 
-**Canal de Conexión Comercial**  
+- **Canal de Conexión Comercial**  
 Espacio dentro de la aplicación que facilita la comunicación directa entre proveedores y dueños de licorerías. Permite enviar mensajes, cotizaciones, pedidos personalizados y recibir alertas sobre nuevos productos o cambios en precios.
