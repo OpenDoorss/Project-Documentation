@@ -12,6 +12,8 @@ Para poder validar mejor la propuesta solución planteada, se diseñarán pregun
 
 ### 2.2.1. Diseño de entrevistas
 
+**Segmento objetivo 1: Dueños de licorerías**
+
 **Preguntas demográficas:**
 - ¿Cuál es tu nombre?
 - ¿Qué edad tienes?
@@ -30,6 +32,27 @@ Para poder validar mejor la propuesta solución planteada, se diseñarán pregun
  - ¿Qué funcionalidades crees que debería tener una herramienta que te ayude a gestionar el stock de tus productos? 
  - ¿Cómo te imaginas el futuro de tu negocio si logras
    reducir pérdidas y tener un mejor control del stock?
+---
+
+**Segmento objetivo 2: Proveedores de licores**
+
+**Preguntas demográficas:**
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿En qué distrito resides?
+
+**Preguntas principales:**
+-  ¿Podrías contarme sobre tu rol como proveedor y tu experiencia en el sector?
+-  ¿Qué tipo de información proporcionas actualmente a tus clientes sobre tus productos?
+-  ¿Has notado problemas de conservación o manejo inadecuado de tus productos en los puntos de venta?
+-  ¿Cómo crees que afecta la mala conservación del licor a la imagen de tu producto o marca?
+- ¿Qué herramientas utilizas para estar en contacto con tus clientes?
+
+**Preguntas sobre la solución:**
+- ¿Consideras que una plataforma que permita compartir las especificaciones de cuidado de tus productos sería útil?
+- ¿Qué funcionalidades te gustaría que tenga una herramienta digital para ayudarte a compartir información sobre tus productos con tus clientes?
+- ¿Qué información consideras imprescindible que el dueño de una licorería sepa sobre tus productos?
+
 
 ### 2.2.2. Registro de entrevistas
 
